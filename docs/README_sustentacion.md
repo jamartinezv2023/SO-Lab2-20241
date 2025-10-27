@@ -1,9 +1,13 @@
 # 🧠 Laboratorio 2 — Implementación del Shell `wish_v2`
 
-**Estudiante:** José Alfredo Martínez Valdés  
-**Profesor:** Henry Alberto Arcila Ramírez 
-**Curso:** Sistemas Operativos — UdeA 2025-2 
-**Institución:** Universidad de Antioquia  
+**Estudiante:** José Alfredo Martínez Valdés
+  
+**Profesor:** Henry Alberto Arcila Ramírez
+ 
+**Curso:** Sistemas Operativos — UdeA 2025-2
+ 
+**Institución:** Universidad de Antioquia
+  
 **Repositorio:** [SO-Lab2-20241](https://github.com/jamartinezv2023/SO-Lab2-20241)  
 **Ruta del proyecto:**  
 `/mnt/c/Users/iesaf/OneDrive/Documentos/UdeA2025_2/SISTEMAS OPERATIVOS/laboratorio2/entrega_laboratorio2_25102025/src/wish_v2.c`
