@@ -1,7 +1,9 @@
-# 🧠 Sustentación Técnica del Laboratorio 2 — Implementación del Shell `wish_v2`
+# 🧠 Laboratorio 2 — Implementación del Shell `wish_v2`
 
-**Autor:** José Martínez  
-**Curso:** Sistemas Operativos — UdeA 2025-2  
+**Estudiante:** José Alfredo Martínez Valdés  
+**Profesor:** Henry Alberto Arcila Ramírez 
+**Curso:** Sistemas Operativos — UdeA 2025-2 
+**Institución:** Universidad de Antioquia  
 **Repositorio:** [SO-Lab2-20241](https://github.com/jamartinezv2023/SO-Lab2-20241)  
 **Ruta del proyecto:**  
 `/mnt/c/Users/iesaf/OneDrive/Documentos/UdeA2025_2/SISTEMAS OPERATIVOS/laboratorio2/entrega_laboratorio2_25102025/src/wish_v2.c`
@@ -21,7 +23,7 @@ El presente laboratorio tiene como propósito implementar un **intérprete de co
 <details>
 <summary>🗣️ Nota de orador</summary>
 
-> Aquí puedes iniciar tu sustentación presentando brevemente la motivación del laboratorio: "Este laboratorio busca comprender cómo un sistema operativo ejecuta procesos mediante llamadas al sistema como `fork()` y `execv()`."
+> Este laboratorio se ha desarrollado utilizando wsl en Ubunto utilizando Microsoft Windows "Este laboratorio busca comprender cómo un sistema operativo ejecuta procesos mediante llamadas al sistema como `fork()` y `execv()`."
 
 </details>
 
@@ -94,7 +96,7 @@ if (pid == 0) {
 3. En el padre, se espera (si no se usa `&`) a que el hijo finalice.
 
 <details>
-<summary>🗣️ Nota de orador</summary>
+<summary>🗣️ ¿Cómo lo explico?</summary>
 
 > Aquí explico la diferencia entre los espacios de memoria del padre e hijo y muestro un diagrama simple con el flujo de `fork → exec → wait`.
 
